@@ -1,0 +1,20 @@
+Record Video
+Setup new client process stpes
+I want to setup new db then what changes to do
+Hosted Test Server and Database server
+Hosted Prod Server and Database server
+How to publish on Test and Prod.
+Where are general Info files stored.
+How to add General Info details
+Loading of compendium to be done by how
+How to load multiple files
+Don't we have UI for file selection
+Labcorp data which we get weekly file that how to load which was automatic
+Print pdf, how it is implemented
+What is the use of client_relationships,test_links table
+How to debug the code
+How to insert new client? Is there any config file to create to laod
+how to run bash file
+Can I open project in Visual Studio
+
+
